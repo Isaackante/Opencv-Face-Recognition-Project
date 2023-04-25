@@ -2,7 +2,7 @@
 
 This code implements face recognition using the LBPH algorithm in OpenCV. The LBPH algorithm extracts local binary patterns from the images and constructs histograms for each face. These histograms are used to train a machine learning model that can then recognize faces in real-time.
 
-## Code Explanation
+# Code Explanation
 The code consists of four main functions:
 
 1. faceSampling()
